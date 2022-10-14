@@ -46,7 +46,7 @@
 <h1 class="Titulos">Bienvenido a SvSoft</h1>
 <br>
 
-    <a href="invernadero.php" >
+    <a href="invernaderoAdministrador.php" >
         <div class = " seccionactores mt-3">
             <div class="box">
                 <div class="hover">
@@ -57,7 +57,7 @@
         </div> 
       </a>
 
-      <a href="personal.php" >
+      <a href="personalAdministrador.php" >
         <div class = " secciondirect mt-3">
             <div class="box">
                 <div class="hover">
